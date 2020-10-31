@@ -8,7 +8,7 @@ function followclick() {
 
 function followcheck() {
     if (followstart >= followneed) {
-        window.open('https://agentgamingesports.com/apply/r6')
+        window.open('https://agentgaming.gg/apply/r6')
     } else {
         document.getElementById('error').style.display = 'block';
     }

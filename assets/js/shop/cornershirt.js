@@ -56,19 +56,19 @@ function xxlargesize() {
 function buynow() {
     if (selection >= 1) {
         if (selection == 1) {
-            window.open('https://agentgamingesports.com/checkout/cornershirt/size/S');
+            window.open('https://agentgaming.gg/checkout/cornershirt/size/S');
         }
         if (selection == 2) {
-            window.open('https://agentgamingesports.com/checkout/cornershirt/size/M');
+            window.open('https://agentgaming.gg/checkout/cornershirt/size/M');
         }
         if (selection == 3) {
-            window.open('https://agentgamingesports.com/checkout/cornershirt/size/L');
+            window.open('https://agentgaming.gg/checkout/cornershirt/size/L');
         }
         if (selection == 4) {
-            window.open('https://agentgamingesports.com/checkout/cornershirt/size/XL');
+            window.open('https://agentgaming.gg/checkout/cornershirt/size/XL');
         }
         if (selection == 5) {
-            window.open('https://agentgamingesports.com/checkout/cornershirt/size/XXL');
+            window.open('https://agentgaming.gg/checkout/cornershirt/size/XXL');
         }
     } else {
         errormsg.style.display = "block";

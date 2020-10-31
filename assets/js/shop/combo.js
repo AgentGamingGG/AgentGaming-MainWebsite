@@ -56,19 +56,19 @@ function xxlargesize() {
 function buynow() {
     if (selection >= 1) {
         if (selection == 1) {
-            window.open('https://agentgamingesports.com/checkout/combo/size/S');
+            window.open('https://agentgaming.gg/checkout/combo/size/S');
         }
         if (selection == 2) {
-            window.open('https://agentgamingesports.com/checkout/combo/size/M');
+            window.open('https://agentgaming.gg/checkout/combo/size/M');
         }
         if (selection == 3) {
-            window.open('https://agentgamingesports.com/checkout/combo/size/L');
+            window.open('https://agentgaming.gg/checkout/combo/size/L');
         }
         if (selection == 4) {
-            window.open('https://agentgamingesports.com/checkout/combo/size/XL');
+            window.open('https://agentgaming.gg/checkout/combo/size/XL');
         }
         if (selection == 5) {
-            window.open('https://agentgamingesports.com/checkout/combo/size/XXL');
+            window.open('https://agentgaming.gg/checkout/combo/size/XXL');
         }
     } else {
         errormsg.style.display = "block";

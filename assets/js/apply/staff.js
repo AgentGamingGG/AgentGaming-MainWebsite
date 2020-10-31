@@ -8,7 +8,7 @@ function followclick() {
 
 function followcheck() {
     if (followstart >= followneed) {
-        window.open('https://agentgamingesports.com/apply/staff')
+        window.open('https://agentgaming.gg/apply/staff')
     } else {
         document.getElementById('error').style.display = 'block';
     }

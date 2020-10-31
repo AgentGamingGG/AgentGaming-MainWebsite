@@ -8,7 +8,7 @@ function followclick() {
 
 function followcheck() {
     if (followstart >= followneed) {
-        window.open('https://agentgamingesports.com/apply/fortnite')
+        window.open('https://agentgaming.gg/apply/fortnite')
     } else {
         document.getElementById('error').style.display = 'block';
     }

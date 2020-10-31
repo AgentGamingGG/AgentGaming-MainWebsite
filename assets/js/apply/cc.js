@@ -8,7 +8,7 @@ function followclick() {
 
 function followcheck() {
     if (followstart >= followneed) {
-        window.open('https://agentgamingesports.com/apply/content-creation')
+        window.open('https://agentgaming.gg/apply/content-creation')
     } else {
         document.getElementById('error').style.display = 'block';
     }

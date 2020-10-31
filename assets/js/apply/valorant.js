@@ -8,7 +8,7 @@ function followclick() {
 
 function followcheck() {
     if (followstart >= followneed) {
-        window.open('https://agentgamingesports.com/apply/valorant')
+        window.open('https://agentgaming.gg/apply/valorant')
     } else {
         document.getElementById('error').style.display = 'block';
     }
